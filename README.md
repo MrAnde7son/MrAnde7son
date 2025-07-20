@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Itamar Mizrahi
 
-<!--
-**MrAnde7son/MrAnde7son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity entrepreneur, software engineer, and builder of high-impact security products.
 
-Here are some ideas to get you started:
+- 🛡️ Co-founder and former CEO of [Cymptom](https://www.tenable.com/press-releases/tenable-acquires-attack-path-management-innovator-cymptom), acquired by Tenable in 2022
+- 💻 VP of Engineering at Tenable, leading the development of [Tenable One](https://www.tenable.com/products/tenable-one) 
+- 🔐 Passionate about cybersecurity, enginneering, startups and everything in between
+- 👨‍💻 Still hands-on: I publish open-source tools
+- 🎓 Teach cybersecurity and mentor students in engineering and red team techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/itamarmizrahi/)
+- [Tenable One](https://www.tenable.com/products/tenable-one)
+
+---
+
+> “Build like a hacker. Lead like a founder.”
