@@ -11,7 +11,7 @@ I'm a cybersecurity entrepreneur, software engineer, and builder of high-impact 
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/itamarmizrahi/)
-- [Website] (https://www.mrande7son.com/)
+- [Website](https://www.mrande7son.com/)
 
 ---
 
