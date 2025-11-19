@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Itamar Mizrahi
 
-I'm a cybersecurity entrepreneur, software engineer, and builder of high-impact security products.
+I'm a cybersecurity entrepreneur and a builder.
 
-- 🛡️ Co-founder and former CEO of [Cymptom](https://www.tenable.com/press-releases/tenable-acquires-attack-path-management-innovator-cymptom), acquired by Tenable in 2022
-- 💻 VP of Engineering at Tenable, leading the product & engineering of [Tenable One](https://www.tenable.com/products/tenable-one) 
+- 🛡️ former CEO and Co-founder of [Cymptom](https://www.tenable.com/press-releases/tenable-acquires-attack-path-management-innovator-cymptom), acquired by Tenable in 2022
+- 💻 VP of Product & Engineering at Tenable
 - 🔐 Passionate about cybersecurity, enginneering, startups and everything in between
 - 👨‍💻 Still hands-on: I publish open-source tools
 - 🎓 Teach cybersecurity and mentor students in engineering and red team techniques
@@ -12,7 +12,3 @@ I'm a cybersecurity entrepreneur, software engineer, and builder of high-impact 
 
 - [LinkedIn](https://www.linkedin.com/in/itamarmizrahi/)
 - [Website](https://www.mrande7son.com/)
-
----
-
-> “Build like a hacker. Lead like a founder.”
